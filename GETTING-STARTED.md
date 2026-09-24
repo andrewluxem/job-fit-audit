@@ -1,6 +1,6 @@
 # Getting started (no AI experience needed)
 
-This guide takes you from zero to your first job audit in about 20 minutes. You don't need to know how to code, and you don't need to understand GitHub.
+This guide takes you from zero to your first job audit: 5 minutes to install, about 15 to build your profile, then a minute or two per job. You don't need to know how to code, and you don't need to understand GitHub.
 
 ## What this is, in plain English
 
@@ -49,7 +49,7 @@ A Project is a folder in Claude that remembers files between chats. Without one,
 2. Name it something like "Job Search."
 3. Start every job-search chat from inside this Project.
 
-## Step 5: Build your profile (one time, 10 to 15 minutes)
+## Step 5: Build your profile (one time, about 15 minutes)
 
 In a new chat inside your Project, type:
 

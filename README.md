@@ -4,13 +4,13 @@
 
 A Claude skill for marketers who are job hunting. Paste a job posting and get an honest apply/skip verdict scored against *your* real career, then (for strong fits) a tailored resume, a short cover letter, outreach notes, and interview prep built only from facts you've verified.
 
-**New to AI or skills?** Start with the [Getting Started guide](GETTING-STARTED.md). It walks you through setup in about 20 minutes, no coding required.
+**New to AI or skills?** Start with the [Getting Started guide](GETTING-STARTED.md). No coding required: 5 minutes to install, about 15 to build your profile, then a minute or two per job.
 
 It's built for any marketing discipline: lifecycle, growth, brand, product marketing, content, demand gen, ops, social, comms, or the CMO track.
 
 ## What it does
 
-**First run: it interviews you.** Upload your resume and answer a few rounds of short questions (target level, location rules, comp, which numbers are really yours, your network). It writes a private profile to a `job-search/` folder that you own. About 10 to 15 minutes.
+**First run: it interviews you.** Upload your resume and answer a few rounds of short questions (target level, location rules, comp, which numbers are really yours, your network). It writes a private profile to a `job-search/` folder that you own. About 15 minutes.
 
 **Every run after: paste a job.** You get:
 
