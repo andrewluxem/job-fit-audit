@@ -18,8 +18,8 @@ This guide takes you from zero to your first job audit in about 20 minutes. You 
 
 ## Step 1: Download the skill
 
-1. On this GitHub page, look on the right side for **Releases** and click the latest one.
-2. Under **Assets**, click **job-fit-audit.zip** to download it. (Not "Source code (zip)." That one is the whole project and Claude will reject it.)
+1. Go to the latest release: [github.com/andrewluxem/job-fit-audit/releases/latest](https://github.com/andrewluxem/job-fit-audit/releases/latest)
+2. Under **Assets**, click the file that starts with **job-fit-audit-v** (for example `job-fit-audit-v1.2.zip`) to download it. (Not "Source code (zip)." That one is the whole project and Claude will reject it.)
 3. **Don't unzip it.** Claude wants the zip file as-is.
 
 ## Step 2: Turn on code execution
@@ -36,7 +36,7 @@ On a company Team or Enterprise account, your admin may need to allow skills fir
 
 1. In claude.ai, go to **Customize**, then **Skills**.
 2. Click **+**, then **+ Create skill**, then **Upload a skill**.
-3. Choose the **job-fit-audit.zip** file you downloaded.
+3. Choose the **job-fit-audit-v…zip** file you downloaded.
 4. Make sure the skill is switched on.
 
 That's the only setup. Claude now knows the playbook.
@@ -102,7 +102,7 @@ To add it: open the [humanizer page](https://github.com/blader/humanizer), click
 | Claude doesn't seem to use the skill | Say "Use the job-fit-audit skill" at the start of your message, and check the skill is switched on under Customize → Skills. |
 | No Word document, just text | Turn on **Code execution and file creation** (Step 2). |
 | Upload fails | Upload the zip exactly as downloaded; don't unzip or rename it. |
-| "SKILL.md file must be in the top-level folder" | You downloaded "Source code (zip)" by mistake. Go back to the release and download **job-fit-audit.zip** instead. |
+| "SKILL.md file must be in the top-level folder" | You downloaded "Source code (zip)" by mistake. Go back to the release and download the **job-fit-audit-v…zip** file instead. |
 | Claude asks the setup questions again | Add your profile files to the Project (Step 5) and start chats from inside that Project. |
 | Menus look different | Claude's menus change over time. Anthropic's help article [Use skills in Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude) has the current steps. |
 

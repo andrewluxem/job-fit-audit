@@ -56,7 +56,7 @@ Then in any session: paste a job posting, or say "set up my job-fit-audit profil
 
 **Claude.ai / Claude Desktop / Cowork**
 
-1. Download `job-fit-audit.zip` from the latest release (or zip the inner `job-fit-audit/` folder yourself).
+1. Download `job-fit-audit-vX.Y.zip` from the [latest release](https://github.com/andrewluxem/job-fit-audit/releases/latest) (not "Source code"; or zip the inner `job-fit-audit/` folder yourself).
 2. Settings → Capabilities → turn on **Code execution and file creation** (needed for the `.docx` resume).
 3. Customize → Skills → **+** → **+ Create skill** → **Upload a skill** → choose the zip.
 4. Start a chat and paste a job posting.
