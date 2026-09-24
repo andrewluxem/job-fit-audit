@@ -24,6 +24,8 @@ Do not write the profile until each of these has an answer the user gave or conf
 - [ ] Style rules and banned words
 - [ ] Tier A behavior (auto-build or ask first)
 
+- [ ] Summary confirmed by the user (see "Final round" below)
+
 Landmines (short tenures, gaps) can be deferred; flag them in the profile.
 
 ## Round 1: Target (always ask)
@@ -65,6 +67,10 @@ Landmines (short tenures, gaps) can be deferred; flag them in the profile.
 ## Optional: story bank
 
 Offer it; don't force it. "Want to capture two or three of your best stories now, or add them as interviews come up?" If yes, use `story-bank-template.md` and ask for one story at a time: the situation in a sentence, what they specifically did, the result with its number, and who else was involved.
+
+## Final round: confirm (mandatory, never skip)
+
+After the last question is answered, do NOT write any files in that turn. Send the summary described in SKILL.md step 5 and wait. Users catch real errors here (a relocation answer they didn't mean, a metric that was really a team result). Writing files first and asking afterward defeats the point.
 
 ## Writing the files
 
