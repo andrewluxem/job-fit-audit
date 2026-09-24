@@ -61,7 +61,7 @@ Then in any session: paste a job posting, or say "set up my job-fit-audit profil
 3. Customize → Skills → **+** → **+ Create skill** → **Upload a skill** → choose the zip.
 4. Start a chat and paste a job posting.
 
-Skills work on every Claude plan, including Free. Step-by-step beginner version: [GETTING-STARTED.md](GETTING-STARTED.md).
+Skills work on every Claude plan, including Free, but a paid plan is strongly recommended: setup plus a first audit can use up a Free account's message limit before it resets. Step-by-step beginner version: [GETTING-STARTED.md](GETTING-STARTED.md).
 
 Tip for claude.ai: create a Project called "Job Search" and add the `profile.md`, `story-bank.md`, and `resume.json` the skill generates as Project files, so you don't redo setup each chat.
 

@@ -12,7 +12,7 @@ This guide takes you from zero to your first job audit in about 20 minutes. You 
 
 ## What you need
 
-- A free Claude account at [claude.ai](https://claude.ai). Skills work on every plan, including Free. Paid plans give you more usage, which helps because resume building is a long conversation.
+- A Claude account at [claude.ai](https://claude.ai). Skills work on every plan, including Free, but **a paid plan (Pro or higher) is strongly recommended.** In testing, a Free account ran out of messages right after profile setup, before its first job audit. On Free, expect to do setup in one session and your first audit after the limit resets (Claude shows the reset time).
 - A computer (the setup steps are easiest on desktop; you can use it on your phone afterward).
 - Your current resume, as a PDF or Word file.
 
@@ -87,6 +87,15 @@ To add it: open the [humanizer page](https://github.com/blader/humanizer), click
 - "Update my profile: I just got certified in [X]."
 - "Make the resume one page instead of two."
 
+## Making your usage go further
+
+Profile setup and resume building are long conversations, so they use more of your plan's limit than regular chat. To stretch it:
+
+- **Paste the job text instead of a link.** Links make Claude fetch and read the whole page first.
+- **One job per chat.** Start a new chat inside your Project for each posting instead of continuing a long one.
+- **Upload your profile files to the Project** (Step 5), so Claude doesn't redo setup.
+- **Ask for the package only when you'll apply.** A Tier B verdict costs far less than a full resume, letter, and interview prep.
+
 ## Tips
 
 - **Always review before you send.** Claude is a strong first draft, not a final one. Read every line of the resume and cover letter.
@@ -103,6 +112,7 @@ To add it: open the [humanizer page](https://github.com/blader/humanizer), click
 | No Word document, just text | Turn on **Code execution and file creation** (Step 2). |
 | Upload fails | Upload the zip exactly as downloaded; don't unzip or rename it. |
 | "SKILL.md file must be in the top-level folder" | You downloaded "Source code (zip)" by mistake. Go back to the release and download the **job-fit-audit-v…zip** file instead. |
+| "You are out of free messages" | You've hit your plan's usage limit. Wait for the reset time shown, or upgrade. See "Making your usage go further" above. |
 | Claude asks the setup questions again | Add your profile files to the Project (Step 5) and start chats from inside that Project. |
 | Menus look different | Claude's menus change over time. Anthropic's help article [Use skills in Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude) has the current steps. |
 
