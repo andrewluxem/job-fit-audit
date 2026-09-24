@@ -19,7 +19,7 @@ This guide takes you from zero to your first job audit: 5 minutes to install, ab
 ## Step 1: Download the skill
 
 1. Go to the latest release: [github.com/andrewluxem/job-fit-audit/releases/latest](https://github.com/andrewluxem/job-fit-audit/releases/latest)
-2. Under **Assets**, click the file that starts with **job-fit-audit-v** (for example `job-fit-audit-v1.2.zip`) to download it. (Not "Source code (zip)." That one is the whole project and Claude will reject it.)
+2. Under **Assets**, click the file that starts with **job-fit-audit-v** (for example `job-fit-audit-v1.3.zip`) to download it. (Not "Source code (zip)." That one is the whole project and Claude will reject it.)
 3. **Don't unzip it.** Claude wants the zip file as-is.
 
 ## Step 2: Turn on code execution
