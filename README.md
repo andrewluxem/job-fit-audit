@@ -4,6 +4,8 @@
 
 A Claude skill for marketers who are job hunting. Paste a job posting and get an honest apply/skip verdict scored against *your* real career, then (for strong fits) a tailored resume, a short cover letter, outreach notes, and interview prep built only from facts you've verified.
 
+**New to AI or skills?** Start with the [Getting Started guide](GETTING-STARTED.md). It walks you through setup in about 20 minutes, no coding required.
+
 It's built for any marketing discipline: lifecycle, growth, brand, product marketing, content, demand gen, ops, social, comms, or the CMO track.
 
 ## What it does
@@ -55,9 +57,11 @@ Then in any session: paste a job posting, or say "set up my job-fit-audit profil
 **Claude.ai / Claude Desktop / Cowork**
 
 1. Download `job-fit-audit.zip` from the latest release (or zip the inner `job-fit-audit/` folder yourself).
-2. Settings → Capabilities → Skills → Upload skill.
-3. Make sure code execution is on (needed for the `.docx` resume).
+2. Settings → Capabilities → turn on **Code execution and file creation** (needed for the `.docx` resume).
+3. Customize → Skills → **+** → **+ Create skill** → **Upload a skill** → choose the zip.
 4. Start a chat and paste a job posting.
+
+Skills work on every Claude plan, including Free. Step-by-step beginner version: [GETTING-STARTED.md](GETTING-STARTED.md).
 
 Tip for claude.ai: create a Project called "Job Search" and add the `profile.md`, `story-bank.md`, and `resume.json` the skill generates as Project files, so you don't redo setup each chat.
 
@@ -81,6 +85,7 @@ The intake never asks for anything an employer can't legally ask (age, family st
 ## Files
 
 ```
+GETTING-STARTED.md                 # beginner setup guide
 job-fit-audit/
   SKILL.md                         # the workflow
   references/
