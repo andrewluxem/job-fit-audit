@@ -10,6 +10,22 @@ Goal: a `profile.md` accurate enough that every resume line, letter, and intervi
 - **Never ask for:** Social Security numbers, date of birth, age, marital or family status, health, immigration details, or anything else an employer can't legally ask. A resume doesn't need them and the skill doesn't either.
 - **Summarize and confirm** at the end of each round in one or two lines, then move on.
 
+## Required before writing
+
+Do not write the profile until each of these has an answer the user gave or confirmed. If the resume pre-fills one, ask the user to confirm it rather than assuming.
+
+- [ ] Discipline and target titles
+- [ ] Level: core, stretch, floor
+- [ ] Location rules, including whether relocation is really on the table
+- [ ] Comp approach (numbers, or "case by case")
+- [ ] Dealbreakers vs flags
+- [ ] Attribution for every metric that will appear on the resume (confirm the obvious ones in one batch: "These look like your own results: A, B, C. Correct?")
+- [ ] Referral network: alumni companies, communities, recruiters. This drives the Referral score, so don't defer it.
+- [ ] Style rules and banned words
+- [ ] Tier A behavior (auto-build or ask first)
+
+Landmines (short tenures, gaps) can be deferred; flag them in the profile.
+
 ## Round 1: Target (always ask)
 
 1. **Discipline.** Which marketing lane are you aiming at? Options drawn from their resume, e.g. Lifecycle/CRM/Retention, Growth/Performance, Brand, Product Marketing, Content/SEO, Demand Gen/ABM, Marketing Ops/Martech, Social/Community, Comms/PR, Generalist/CMO track. Multi-select is fine; ask which is primary.

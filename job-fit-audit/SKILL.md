@@ -34,8 +34,9 @@ If `job-search/profile.md` exists, read it and skip to the audit. If not, run th
 1. **Start from their resume.** Ask for it first (upload, paste, or LinkedIn "Save to PDF"). Extract everything you can before asking anything else, so the questions only cover gaps.
 2. **Ask in small batches.** Use the AskUserQuestion tool (or the host's multiple-choice UI) when available, three or four questions per round, with sensible options plus "Other." In plain chat, ask at most four numbered questions per message. Never dump all twenty questions at once.
 3. **Verify every number.** For each metric on their resume, confirm two things: is it accurate, and whose result is it (theirs, their team's, or the company's)? Record the answer. This is the attribution rule and it protects them at reference-check time.
-4. **Write the files** using `references/profile-template.md` and `scripts/resume.example.json` as the shapes. Show the user the profile summary and the search parameters, ask "anything wrong or missing?", fix it, then save.
-5. Offer the story bank (`references/story-bank-template.md`) as optional. It can be filled in later, one story at a time during interview prep.
+4. **Don't skip the required questions.** Before writing anything, confirm you have an answer for each item in the intake's "Required before writing" checklist. Pre-filled guesses from the resume (location, relocation, titles) count only after the user confirms them.
+5. **Confirm before saving.** Show the user a short summary: positioning line, search parameters, top proof points with their attribution, and writing rules. Ask "Anything wrong or missing?" and wait for the answer. Fix, then write the files using `references/profile-template.md` and `scripts/resume.example.json` as the shapes.
+6. Offer the story bank (`references/story-bank-template.md`) as optional. It can be filled in later, one story at a time during interview prep.
 
 Setup should take 10 to 15 minutes of the user's time. If they are impatient, get the resume plus the Search Parameters section and start auditing; fill gaps as roles surface them.
 
@@ -43,7 +44,7 @@ Setup should take 10 to 15 minutes of the user's time. If they are impatient, ge
 
 **Read `profile.md` before anything else.** Never state a career fact, metric, employer, title, or date that isn't in `profile.md` or `story-bank.md`. Tailoring means choosing, ordering, and rephrasing true things. It never means inventing or inflating. A fabricated number on a resume can cost an offer.
 
-Also follow `references/writing-rules.md` for every word you produce: no AI writing tells, signed deltas, attribution discipline, and the user's own style preferences from their profile (some people ban em dashes, some ban particular words; their list wins).
+Also follow `references/writing-rules.md` for every word you produce, including your own chat messages to the user. The moment the user states a style rule during intake (for example, no em dashes), apply it to everything you write from then on: no AI writing tells, signed deltas, attribution discipline, and the user's own style preferences from their profile (some people ban em dashes, some ban particular words; their list wins).
 
 ## Step 1: Ingest the posting
 
