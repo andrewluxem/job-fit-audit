@@ -44,6 +44,8 @@ Setup should take 10 to 15 minutes of the user's time. If they are impatient, ge
 
 **Read `profile.md` before anything else.** Never state a career fact, metric, employer, title, or date that isn't in `profile.md` or `story-bank.md`. Tailoring means choosing, ordering, and rephrasing true things. It never means inventing or inflating. A fabricated number on a resume can cost an offer.
 
+**Self-check before every reply and every file.** Scan what you're about to send for the user's banned characters and words (from `profile.md`, or stated in this conversation) and for the AI tells in `references/writing-rules.md`. Rewrite any line that has one, then send. Em dashes are the most common miss: they slip into chat replies even when the rules are loaded, so check for them specifically.
+
 Also follow `references/writing-rules.md` for every word you produce, including your own chat messages to the user. The moment the user states a style rule during intake (for example, no em dashes), apply it to everything you write from then on: no AI writing tells, signed deltas, attribution discipline, and the user's own style preferences from their profile (some people ban em dashes, some ban particular words; their list wins).
 
 ## Step 1: Ingest the posting
@@ -89,7 +91,12 @@ this worth their time or not, and what they'd be walking into.]
 Flags: [list, or "none"]
 Referral path: [specific: which alumni network or contact to work, or "cold: hiring-manager outreach only"]
 Resume angle: [which positioning from their profile fits, plus one line of why]
+
+Pipeline row:
+| [date] | [Company] | [Role] | [Tier] | [score] | [Location] | [Source] | [Referral path] | SOURCED | [Next action] |
 ```
+
+The pipeline row is part of every verdict, including Tier C. If `pipeline.md` is writable, append the row there too; otherwise the user pastes it into their tracker.
 
 Then branch:
 - **Tier A:** build the full package (Step 4) unless the user's profile says "ask first."
@@ -149,7 +156,7 @@ Append a row to `job-search/pipeline.md` (create it with this header if missing)
 |---|---|---|---|---|---|---|---|---|---|
 ```
 
-Stage starts at SOURCED. If there's no filesystem, output the row and tell the user to paste it into their tracker.
+Stage starts at SOURCED. The row always appears at the bottom of the verdict (Step 3); this step is the file write when a filesystem is available.
 
 ## Keeping the profile honest
 

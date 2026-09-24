@@ -2,6 +2,8 @@
 
 Apply to every resume line, letter, outreach note, and interview answer. The user's own style rules in `profile.md` override anything here.
 
+Run the self-check in SKILL.md (banned characters, banned words, AI tells) on every chat reply and every file before sending.
+
 ## Truth rules (never break)
 
 1. **Only verified facts.** Every claim traces to `profile.md` or `story-bank.md`. Tailoring reorders and re-emphasizes; it never invents or inflates a metric, employer, title, scope, or date.

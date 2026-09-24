@@ -41,6 +41,8 @@ What "owns it end to end" means by discipline:
 2: mostly unfamiliar tools, some transfer.
 1: a specialized toolkit they've never touched, and the JD treats it as day-one required.
 
+**Toolkit scores platforms and methods only.** A missing required *experience* (newsletter ad sales, managing a P&L, a regulated-industry background, people management at a larger scale) is not a Toolkit gap. Put it in Flags, and deduct from Scope only if it's a core part of what the role owns. Scoring it under Toolkit double-counts it and hides the real reason.
+
 Common toolkits by discipline, to help map JD language to the profile: lifecycle (Braze, Klaviyo, Iterable, Salesforce Marketing Cloud, HubSpot, Attentive, Customer.io); growth (Google Ads, Meta, TikTok, AppsFlyer, MMM/incrementality); product marketing (Gong, Highspot, Klue, pricing research); content/SEO (Ahrefs, Semrush, GSC, CMSs); ops (Salesforce, Marketo, HubSpot, Segment, dbt, SQL); social (Sprout, Later, creator platforms). These are examples, not a checklist.
 
 ## Comp
