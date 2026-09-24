@@ -72,6 +72,12 @@ You'll get a verdict like this:
 - **Tier B (decent fit):** Claude gives the verdict and waits. Say **"build it"** if you want the package.
 - **Tier C (poor fit):** Claude tells you to skip it and what would have changed its mind. Skipping is a win; it saves your time for better roles.
 
+## Optional: add humanizer for a final polish
+
+[humanizer](https://github.com/blader/humanizer) is a free skill that rewrites text so it sounds less like AI wrote it. It pairs well with job-fit-audit: after you get a cover letter or networking message, say **"Use humanizer on this"** before you send it.
+
+To add it: open the [humanizer page](https://github.com/blader/humanizer), click the green **Code** button, then **Download ZIP**. Upload that zip under **Customize → Skills** exactly like Step 3.
+
 ## Things to try
 
 - "Is this worth applying to?" plus a job link or pasted posting

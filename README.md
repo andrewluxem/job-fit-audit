@@ -65,6 +65,12 @@ Skills work on every Claude plan, including Free. Step-by-step beginner version:
 
 Tip for claude.ai: create a Project called "Job Search" and add the `profile.md`, `story-bank.md`, and `resume.json` the skill generates as Project files, so you don't redo setup each chat.
 
+## Pairs well with: humanizer
+
+I recommend installing [humanizer](https://github.com/blader/humanizer) alongside this skill. job-fit-audit already avoids the common AI writing tells, but humanizer is a dedicated second pass that catches 25 patterns of AI-sounding prose. Run it on your cover letter and outreach notes before you send them: "Use humanizer on this cover letter."
+
+Install instructions are in the [humanizer README](https://github.com/blader/humanizer). For claude.ai, download that repo as a ZIP (Code → Download ZIP) and upload it under Customize → Skills the same way.
+
 ## Your data stays yours
 
 The skill folder contains no personal data. Everything about you lives in a `job-search/` folder in your own workspace (or your Claude Project):
