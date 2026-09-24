@@ -1,0 +1,103 @@
+{
+  "_comment": "Fictional example. Copy to job-search/resume.json and replace every value with the user's verified facts. Fields starting with _ are ignored. **text** renders bold.",
+  "name": "Jordan Rivera",
+  "credentials": "MBA",
+  "contactLines": [
+    ["Denver, CO", "(555) 010-0142", "jordan.rivera@example.com"],
+    ["linkedin.com/in/example-jordan", "jordanrivera.example.com"]
+  ],
+  "headline": "Lifecycle & Retention Marketing Leader",
+  "summary": "Lifecycle marketer with 12 years in consumer subscription and e-commerce. Builds retention programs that tie every message to revenue, and runs the platform work underneath them: two ESP migrations, a CDP rollout, and the measurement to prove incrementality.",
+  "selectedResults": [
+    "+18% 90-day retention (Northwind Outfitters)",
+    "−22% subscription churn in 9 months (Brightpath)",
+    "3× revenue per send after ESP migration",
+    "Built and led a 7-person lifecycle team",
+    "Speaker, regional lifecycle marketing meetup 2025"
+  ],
+  "skills": [
+    "Lifecycle strategy", "Retention & win-back", "Onboarding journeys", "Segmentation",
+    "Holdout & incrementality testing", "ESP migrations", "Deliverability", "SMS & push",
+    "Team building", "Budget & vendor management"
+  ],
+  "experience": [
+    {
+      "company": "Northwind Outfitters",
+      "location": "Remote",
+      "dates": "Mar 2022 – Present",
+      "roles": [
+        {
+          "title": "Director, Lifecycle Marketing",
+          "descriptor": "DTC outdoor apparel, $300M revenue",
+          "bullets": [
+            "Rebuilt the lifecycle program around four journeys (welcome, second purchase, replenishment, win-back); 90-day retention +18%",
+            "Led the migration from a legacy ESP to Braze in 14 weeks with no lost sends, then used the new event data to launch browse and cart triggers",
+            "Grew revenue per send 3× by replacing daily blasts with behavior-triggered messaging and a frequency cap",
+            "Hired and developed a 7-person team across CRM, lifecycle analytics, and creative production"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Brightpath",
+      "location": "Chicago, IL",
+      "dates": "Jun 2017 – Feb 2022",
+      "roles": [
+        {
+          "title": "Senior Manager, Retention",
+          "descriptor": "Subscription meal kits",
+          "dates": "2019 – 2022",
+          "bullets": [
+            "Cut subscription churn −22% in nine months with a skip-instead-of-cancel flow and save offers tested against holdouts",
+            "Owned the retention P&L line for email, SMS, and push, reporting weekly to the VP Growth"
+          ]
+        },
+        {
+          "title": "Manager, CRM",
+          "dates": "2017 – 2019",
+          "bullets": [
+            "Launched SMS as a channel, from zero to 400K opted-in subscribers",
+            "Built the first holdout-group measurement framework used across marketing"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Harbor Lane Retail",
+      "location": "Chicago, IL",
+      "dates": "2013 – 2017",
+      "roles": [
+        {
+          "title": "Email Marketing Specialist",
+          "bullets": [
+            "Ran the promotional calendar for a 5M-subscriber file; moved templates to mobile-responsive"
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "education": {
+      "title": "Education",
+      "style": "plain",
+      "items": [
+        "MBA — State University, 2019",
+        "BA, Communications — State University, 2012"
+      ]
+    },
+    "tools": {
+      "title": "Tools",
+      "items": [
+        { "label": "Lifecycle", "value": "Braze, Klaviyo, Iterable, Attentive" },
+        { "label": "Data", "value": "SQL, Looker, GA4, Segment" },
+        { "label": "AI & Automation", "value": "Claude, ChatGPT; LLM-assisted QA and reporting" }
+      ]
+    }
+  },
+  "order": ["header", "headline", "summary", "results", "skills", "experience", "education", "tools"],
+  "style": {
+    "accent": "1E4E79",
+    "font": "Calibri",
+    "_pages": "Target page count is set in profile.md; the builder does not enforce it. Check the PDF."
+  }
+}

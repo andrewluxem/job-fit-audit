@@ -1,0 +1,6 @@
+# Personal job-search data never belongs in this repo
+job-search/
+*.docx
+*.pdf
+node_modules/
+.DS_Store
