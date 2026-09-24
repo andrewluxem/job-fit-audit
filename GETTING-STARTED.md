@@ -19,7 +19,7 @@ This guide takes you from zero to your first job audit in about 20 minutes. You 
 ## Step 1: Download the skill
 
 1. On this GitHub page, look on the right side for **Releases** and click the latest one.
-2. Under **Assets**, click **job-fit-audit.zip** to download it.
+2. Under **Assets**, click **job-fit-audit.zip** to download it. (Not "Source code (zip)." That one is the whole project and Claude will reject it.)
 3. **Don't unzip it.** Claude wants the zip file as-is.
 
 ## Step 2: Turn on code execution
@@ -96,6 +96,7 @@ You'll get a verdict like this:
 | Claude doesn't seem to use the skill | Say "Use the job-fit-audit skill" at the start of your message, and check the skill is switched on under Customize → Skills. |
 | No Word document, just text | Turn on **Code execution and file creation** (Step 2). |
 | Upload fails | Upload the zip exactly as downloaded; don't unzip or rename it. |
+| "SKILL.md file must be in the top-level folder" | You downloaded "Source code (zip)" by mistake. Go back to the release and download **job-fit-audit.zip** instead. |
 | Claude asks the setup questions again | Add your profile files to the Project (Step 5) and start chats from inside that Project. |
 | Menus look different | Claude's menus change over time. Anthropic's help article [Use skills in Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude) has the current steps. |
 
