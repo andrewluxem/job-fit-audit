@@ -134,6 +134,14 @@ Map the JD's top five requirements to the user's proof points. For each: require
 
 Add the behavioral set from `references/interview-prep.md` when the round is likely to include it, and three or four questions for them, at least one built from real homework on the company.
 
+### Before delivering: fact check (mandatory)
+Before you send the package, check every number and claim in the resume, cover letter, outreach notes, blurb, and story prep against `profile.md` and `story-bank.md`:
+- **Exact metric:** same noun and unit as the profile (revenue per email, not email revenue).
+- **Owner:** the user's own result, a team result, or a company result, phrased the way the profile approves.
+- **Employer:** attached to the company where it happened, never merged with another employer's result.
+- **Existence:** any claim not in the profile (for example "without sacrificing deliverability") comes out, or becomes a question to the user.
+Fix every mismatch before delivering. Then run the self-check for banned characters and words.
+
 ## Interview mode (no new posting to score)
 
 When the user has an interview booked or asks for prep rather than a verdict, skip Steps 1 to 3 and build the prep pack from `references/interview-prep.md`:

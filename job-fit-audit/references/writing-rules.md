@@ -10,6 +10,10 @@ Run the self-check in SKILL.md (banned characters, banned words, AI tells) on ev
 2. **Attribution discipline.** The verb attaches to the user's scope; the number attaches to whoever owned it. If a result was the company's or the team's, use the approved phrasing from the profile's Attribution notes. Never write a standalone causal claim ("drove $40M in revenue") for a number the user didn't own alone. This is the fastest way to lose credibility in a screen and the easiest way to fail a reference check.
 3. **Targets are not results.** A goal the user was asked to hit is not an outcome unless they confirm they hit it.
 4. **Quarantined numbers stay quarantined.**
+5. **One metric, one claim.** Never join two results into a cause-and-effect sentence unless the profile says one caused the other. Wrong: "took weekly campaigns from 7 to 21, a 4× lift in email revenue." Right: "grew revenue per email 4× in seven months, and took weekly campaign output from 7 to 21."
+6. **Keep each metric's exact wording.** Copy the metric's noun from the profile. "Revenue per email" is not "email revenue"; "opens and clicks from personalized send times" is not "personalized sends"; "retention and reactivation lift" is not "revenue growth."
+7. **Company-level results use the approved phrasing word for word.** No "contributing to," "drove," "helped deliver," or any other verb that ties the user causally to a company or team number. If the profile has no approved phrasing for a company result, leave the number out.
+8. **Keep each result with its employer.** Don't put results from two companies in one sentence as if they came from the same program.
 
 ## Style rules (default on; the user can turn any of these off)
 

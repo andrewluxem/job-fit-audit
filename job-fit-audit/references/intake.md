@@ -23,6 +23,8 @@ Do not write the profile until each of these has an answer the user gave or conf
 - [ ] Referral network: alumni companies, communities, recruiters. This drives the Referral score, so don't defer it.
 - [ ] Style rules and banned words
 - [ ] Tier A behavior (auto-build or ask first)
+- [ ] Toolkit strengths: the platforms and methods that score 5 (e.g. named ESPs, CDPs, ad platforms, analytics tools), plus ones used but not led with. Ask even if the resume lists tools; resumes leave out the ones people know best.
+- [ ] Full career history in `profile.md` and `resume.json`: every role's exact title, employer, location, start and end month and year, team size and reporting line where they had reports, and the complete verified bullet set. The package cannot build a resume or answer a management question without it.
 
 - [ ] Summary confirmed by the user (see "Final round" below)
 
