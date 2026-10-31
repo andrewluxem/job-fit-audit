@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="job-fit-audit: A Claude skill for marketers who are job hunting. It interviews you once to build a verified career profile, then scores any job posting with an honest apply/skip verdict. For strong fits it builds a tailored resume, cover letter, outreach notes, and interview prep, and it never invents a number." width="100%"></p>
+
 # job-fit-audit
 
 *By [Andrew Luxem](https://andrewluxem.com), retention and lifecycle marketing leader.*
